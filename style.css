@@ -13,6 +13,7 @@ header{
     width: 100%;
     background-color: transparent;
 }
+
 .nav-bar {
     align-items: center;
     justify-content: center;
@@ -56,4 +57,32 @@ header{
 .cart-icon{
     height: 20px;
     margin-left: 35px ;
+}
+
+.promotion-bar {
+    color: rgb(0, 0, 4);
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    font-weight: 0.4px;
+    font-size: 13px;
+} 
+
+.promotion-bar a{
+    color: blue;
+    text-decoration: none;
+}
+
+.promotion-bar a:hover{
+    text-decoration: underline;
+}
+
+span{
+    margin-right: 20px;
+    height: 10px;
+    font-size: 10px;
+    /* background-color: aqua; */
+    /* padding-bottom: 10px; */
+    padding-right: 80px;
+    position:absolute;
 }
