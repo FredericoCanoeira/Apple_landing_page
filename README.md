@@ -1,3 +1,4 @@
 # Apple_landing_page
 
-https://www.iconfinder.com/search?q=cart&price=free
+
+To preview :point_right: [clik here](https://apple-mini-site-clone.netlify.app/)
